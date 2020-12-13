@@ -1,0 +1,16 @@
+h1{
+    color : #DC143C;
+}
+.header{
+    background-color:#008080 ;
+    display : flex;
+    justify-content: space-between;
+}
+body{
+    background-color:#76FC00 ;
+}
+.grid{
+    background-color: aqua;
+    display : flex;
+    justify-content: space-evenly;
+}
